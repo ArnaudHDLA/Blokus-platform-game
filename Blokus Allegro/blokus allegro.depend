@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1549466016 source:c:\users\arnde\desktop\go git\blokus allegro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	"headers.h"
+
+1549466016 c:\users\arnde\desktop\go git\blokus allegro\headers.h
+

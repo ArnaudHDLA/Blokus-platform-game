@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1549466016 source:c:\users\arnde\desktop\go git\blokus console\headers.h
+
+1549466016 source:c:\users\arnde\desktop\go git\blokus console\main.c
+	"headers.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1549466016 c:\users\arnde\desktop\go git\blokus console\headers.h
+
